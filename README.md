@@ -77,16 +77,15 @@ Make sure MongoDB is running locally or use MongoDB Atlas. You may need a `.env`
 node app.js
 ```
 
-Navigate to `http://localhost:3000`
+##  Future Plans
 
-## Future Plans
+* Integrate a smart chatbot for enhanced user interaction and support
+* Add real-time messaging between users and property owners
+* Implement map-based location filtering for listings
+* Enhance accessibility and SEO optimization
+* Deploy the application to a cloud platform with CI/CD
 
-* Add user authentication and authorization
-* Image upload functionality with Cloudinary
-* Flash messages for user actions
-* Reviews and ratings system
-* Responsive mobile UI
-* Chatbot integration
+---
 
 ## Acknowledgements
 
